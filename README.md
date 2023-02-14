@@ -9,4 +9,4 @@
 
 而最終產生結果如下表示
 
-![image](https://github.com/t87476909/5g-implementation/blob/main/Simulation%20results/Implementation_system_throughput.pdf)
+![image](https://github.com/t87476909/5g-implementation/blob/main/Simulation%20results/result.PNG)
